@@ -10,3 +10,5 @@ raghumain.o:	raghumain.c
 	cc -c raghumain.c
 raghufun.o:	raghufun.c
 	cc -c raghufun.c
+clean:
+	rm -f *.O
