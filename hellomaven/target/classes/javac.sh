@@ -1,0 +1,1 @@
+/bin/sh -c cd /home/raghu/git/testrepo1/hellomaven && "C:/Program Files/Java/jdk1.8.0_121/bin/javac.exe" @/home/raghu/git/testrepo1/hellomaven/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler6800745366879492746arguments
