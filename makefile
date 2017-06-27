@@ -8,6 +8,12 @@ helloraghu :raghumain.o raghufun.o
 	cc raghumain.o raghufun.o  -o helloraghu
 raghumain.o:	raghumain.c
 	cc -c raghumain.c
+hellojagadeesh :jagadeeshmain.o jagadeeshfun.o
+	cc jagadeeshmain.o jagadeeshfun.o -o hellojagadeesh
+jagadeeshmain.o:	jagadeeshmain.c
+	cc -c jagadeeshmain.c
+jagadeeshfun.o:		jagadeeshfun.c
+	cc -c jagadeeshfun.c
 raghufun.o:	raghufun.c
 	cc -c raghufun.c
 clean:
