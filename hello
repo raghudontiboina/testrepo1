@@ -1,3 +1,11 @@
 hi
+<<<<<<< HEAD
 this is hello file
 this is is in master branch
+=======
+
+
+
+
+hello this is hello file
+>>>>>>> parent of 237f0de... hello file
