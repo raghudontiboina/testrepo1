@@ -1,0 +1,7 @@
+hi
+<<<<<<< HEAD
+helllo
+this is in master
+=======
+hello
+>>>>>>> first_branch
